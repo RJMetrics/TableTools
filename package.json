@@ -1,0 +1,9 @@
+{
+  "name": "datatables-tabletools",
+  "version": "2.2.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RJMetrics/TableTools.git"
+  },
+  "main": "js/dataTables.tableTools.js"
+}
